@@ -12,4 +12,4 @@
     * [更多人／更多開發團隊](model/more-people-more-development-teams.md)
     * [浪費與非增值活動](model/waste-and-non-value-added-activities.md)
     * [工作／生活的平衡](model/work-life-balance.md)
-* [總結](model/wrap-up.md)
+* [總結](wrap-up.md)
