@@ -5,6 +5,7 @@
 * [衝刺、馬拉松以及......間歇跑！](sprint-marathon-intervals.md)
 * [軟體開發速度模型](model.md)
     * [技能與經驗](model/skills-and-experience.md)
+        * [經驗](model/skills-and-experience.md#experience)
     * [系統複雜性](model/system-complexity.md)
     * [短期推進](model/short-term-boosts.md)
     * [專心工作](model/focused-work.md)
